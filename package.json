@@ -1,0 +1,25 @@
+{
+  "name": "open163-video-download",
+  "version": "1.0.0",
+  "description": "reptile open 163 video",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pansy-cx"
+  },
+  "author": "Virgil",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.0",
+    "cheerio": "^1.0.0-rc.2",
+    "fs-extra": "^6.0.1",
+    "request": "^2.86.0",
+    "single-line-log": "^1.1.2",
+    "superagent": "^3.8.3",
+    "superagent-charset": "^1.2.0",
+    "yargs": "^11.0.0"
+  }
+}
